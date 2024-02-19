@@ -6,7 +6,7 @@ Discover Unity Trust: Your go-to banking solution. Get our app for access to com
 
 <p>Credits for the design goes to <a href='https://dribbble.com/shots/23619398-Fintech-Banking-website-design'>Wolf Pixel</a></p>
 
-👉 Live Demo: <a href='https://ytsipak.github.io/unity-trust/'>Live Demo</a>
+👉 Live Demo: <a href='https://unity-trust.vercel.app/'>Live Demo</a>
 
 ### Built With
 [![Technologies](https://skillicons.dev/icons?i=react,js,tailwind,vite,photoshop)](https://skillicons.dev)
@@ -14,15 +14,4 @@ Discover Unity Trust: Your go-to banking solution. Get our app for access to com
 
 <h2>Screenshots of the Project 📸</h2>
 <br />
-
-### [Live Website](https://unitytrust.vercel.app)
-![UnityTrust landing](https://github.com/)
-
-<!-- # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh -->
+![Unity Trust Landing](https://github.com/ytsipak/unity-trust/assets/122310792/b75da38a-322b-40f2-b6fd-3505932c126c)
