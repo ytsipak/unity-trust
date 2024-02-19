@@ -14,4 +14,4 @@ Discover Unity Trust: Your go-to banking solution. Get our app for access to com
 
 <h2>Screenshots of the Project 📸</h2>
 <br />
-![Unity Trust Landing](https://github.com/ytsipak/unity-trust/assets/122310792/b75da38a-322b-40f2-b6fd-3505932c126c)
+<img src='https://github.com/ytsipak/unity-trust/assets/122310792/b75da38a-322b-40f2-b6fd-3505932c126c'/>
